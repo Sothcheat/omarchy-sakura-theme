@@ -1,0 +1,39 @@
+# Sakura — a soft-black, pink-primary theme for Omarchy.
+#
+# Derived from the previous Clouds Anime Scenery Art palette, but with the
+# primary rotated onto pink and the background rebuilt the way Nord builds
+# its own: a desaturated near-black tinted toward the primary hue (338°)
+# instead of Nord's blue. Every foreground/accent below is checked against
+# the background for WCAG contrast and against its neighbours for CIEDE2000
+# separation, so no two terminal colors read alike.
+mode = "dark"
+
+accent = "#f2a6c2"
+selection = "#433037"
+muted = "#977884"
+
+background = "#251b1f"
+dark_background = "#1a1416"
+darker_background = "#130e10"
+lighter_background = "#34282c"
+
+foreground = "#ecdae0"
+dark_foreground = "#b69aa6"
+light_foreground = "#dec9d1"
+bright_foreground = "#f7e9ed"
+
+red = "#ef7b7f"
+yellow = "#eacc90"
+orange = "#eaa586"
+green = "#92d3a0"
+cyan = "#89c9d1"
+blue = "#a8bbeb"
+magenta = "#daaae9"
+brown = "#9e6169"
+
+bright_red = "#fb989b"
+bright_yellow = "#fdeaaa"
+bright_green = "#aeefba"
+bright_cyan = "#a4e2ea"
+bright_blue = "#c3d6fd"
+bright_magenta = "#f1c9fd"
